@@ -12,6 +12,14 @@
             echo "Os dados foram enviados! \u{1F4BB}"; 
         ?>
     </h1>
-    <p>Aprenda PHP para saber o que fazer com eles. 🧑‍💻</p>    
+    <p>Aprenda PHP para saber o que fazer com eles. 🧑‍💻</p>
+    <p>Aprenda PHP para saber o que fazer com eles. 🧑‍💻</p>     
+    <p>Aprenda PHP para saber o que fazer com eles. 🧑‍💻</p> 
+    <p>Aprenda PHP para saber o que fazer com eles. 🧑‍💻</p> 
+    <p>Aprenda PHP para saber o que fazer com eles. 🧑‍💻</p> 
+    <p>Aprenda PHP para saber o que fazer com eles. 🧑‍💻</p> 
+    <p>Aprenda PHP para saber o que fazer com eles. 🧑‍💻</p> 
+    <p>Aprenda PHP para saber o que fazer com eles. 🧑‍💻</p> 
+    <p>Aprenda PHP para saber o que fazer com eles. 🧑‍💻</p>  
 </body>
 </html>
