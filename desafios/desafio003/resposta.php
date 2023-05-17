@@ -15,7 +15,7 @@
             $real = $_GET["numero"];
             $usd = $real/$cotacao;            
 
-            // echo "<p>Seus R$ " . number_format($numero, 2,",",".") . " equivalem a <strong>U$$ " . number_format($usd, 2, ",", ".") . "</ strong></p>";
+            // echo "<p>Seus R$ " . number_format($numero, 2,",",".") . " equivalem a <strong>U$$ " . number_format($usd, 2, ",", ".") . "</strong></p>";
 
             // Formatação de Moedas com Internacionalização
             $padrao = numfmt_create("pt_BR", NumberFormatter::CURRENCY);
